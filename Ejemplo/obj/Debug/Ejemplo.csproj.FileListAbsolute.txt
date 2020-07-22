@@ -1,0 +1,13 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
